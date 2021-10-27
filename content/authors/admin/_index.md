@@ -8,9 +8,9 @@ education:
     institution: Rutgers University
 email: mruben75@gmail.com
 highlight_name: yes
-interests:
-- x
-- yes
+# interests:
+# - x
+# - yes
 organizations:
 - name: Cincinnati Children's Hospital (Hogenesch Lab)
   url: https://www.cincinnatichildrens.org/
@@ -35,9 +35,10 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/marcdruben/
 superuser: yes
-bio: I’m interested in linking circadian biology to health and medicine, and applying
-  molecular, genomic, and data science tools to do it.
+bio: I study biological timing in health and medicine using a combination of molecular, computational, and informatic approaches.
 ---
+
+
 
 I’m interested in linking circadian biology to health and medicine, and applying molecular, genomic, and data science tools to do it.
 
