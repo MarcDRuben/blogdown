@@ -2,15 +2,10 @@
 bio: I’m interested in linking circadian biology to health and medicine, and applying molecular, genomic, and data science tools to do it.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Molecular Genetics and Neurobiology
+    institution: New York University
+  - course: BS in Physiology
+    institution: Rutgers University
 email: mruben75@gmail.com
 highlight_name: true
 interests:
@@ -46,4 +41,4 @@ title: Marc D Ruben
 I’m interested in linking circadian biology to health and medicine, and applying molecular, genomic, and data science tools to do it.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}cv{{< /staticref >}}.
