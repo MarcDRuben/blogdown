@@ -1,5 +1,5 @@
 ---
-bio: I’m interested in linking circadian biology to health and medicine, and applying molecular, genomic, and data science tools to do it.
+title: "Marc D Ruben"
 education:
   courses:
   - course: PhD in Molecular Genetics and Neurobiology
@@ -7,10 +7,10 @@ education:
   - course: BS in Physiology
     institution: Rutgers University
 email: mruben75@gmail.com
-highlight_name: true
+highlight_name: yes
 interests:
 - x
-- y
+- yes
 organizations:
 - name: Cincinnati Children's Hospital (Hogenesch Lab)
   url: https://www.cincinnatichildrens.org/
@@ -20,7 +20,7 @@ social:
   icon_pack: fas
   link: /#contact
 - display:
-    header: true
+    header: yes
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
@@ -34,8 +34,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/marcdruben/
-superuser: true
-title: Marc D Ruben
+superuser: yes
+bio: I’m interested in linking circadian biology to health and medicine, and applying
+  molecular, genomic, and data science tools to do it.
 ---
 
 I’m interested in linking circadian biology to health and medicine, and applying molecular, genomic, and data science tools to do it.
