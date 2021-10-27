@@ -4,7 +4,7 @@ theme: "starter-hugo-academic"
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
+title: Marc Ruben # Website name
 baseurl: 'https://marcruben.netlify.app/' # Website URL
 copyright: '© Marc D Ruben (2021)'
 

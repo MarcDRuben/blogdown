@@ -7,21 +7,21 @@ main:
   - name: me
     url: '#about'
     weight: 10
-  - name: Posts
+  - name: posts
     url: '#posts'
     weight: 20
-  - name: Projects
+  - name: projects
     url: '#projects'
     weight: 30
 #  - name: Talks
 #    url: '#talks'
 #    weight: 40
-  - name: Publications
+  - name: pubs
     url: '#featured'
     weight: 50
 #  - name: Courses
 #    url: courses/
 #   weight: 60
-  - name: Contact
+  - name: contact
     url: '#contact'
     weight: 70
