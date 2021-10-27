@@ -13,7 +13,7 @@ interests:
 - y
 organizations:
 - name: Cincinnati Children's Hospital (Hogenesch Lab)
-  url: https://www.stanford.edu/
+  url: https://www.cincinnatichildrens.org/
 role: Postdoctoral Research Fellow
 social:
 - icon: envelope
@@ -41,4 +41,4 @@ title: Marc D Ruben
 I’m interested in linking circadian biology to health and medicine, and applying molecular, genomic, and data science tools to do it.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}cv{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}cv{{< /staticref >}}.
