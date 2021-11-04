@@ -30,10 +30,10 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: An example journal article
+title: stm
 url_code: https://science.org/doi/10.1126/scitranslmed.aat8806
 url_dataset: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://science.org/doi/10.1126/scitranslmed.aat8806
 url_poster: ""
 url_project: ""
 url_slides: ""
