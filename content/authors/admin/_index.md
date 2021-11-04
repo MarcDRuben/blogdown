@@ -34,9 +34,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/MarcDRuben
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/marcdruben/
+
 superuser: yes
 bio: I study biological timing in health and medicine using molecular, computational, and informatic approaches.
 ---

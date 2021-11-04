@@ -23,7 +23,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: https://science.org/doi/10.1126/scitranslmed.aat8806
+title: stm
 url_code: https://science.org/doi/10.1126/scitranslmed.aat8806
 #url_dataset: ""
 url_pdf: https://science.org/doi/10.1126/scitranslmed.aat8806
