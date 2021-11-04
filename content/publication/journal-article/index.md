@@ -31,7 +31,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 tags:
 - Source Themes
 title: An example journal article
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+url_code: https://www.science.org/doi/10.1126/scitranslmed.aat8806
 url_dataset: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_poster: ""
