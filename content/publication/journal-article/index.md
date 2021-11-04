@@ -4,7 +4,6 @@ author_notes:
 - Equal contribution
 authors:
 - admin
-- Robert Ford
 date: "201-09-01T00:00:00Z"
 doi: "10.1126/scitranslmed.aat8806"
 featured: false
@@ -19,11 +18,10 @@ publication_types:
 - "2"
 publishDate: "2017-01-01T00:00:00Z"
 #slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: https://science.org/doi/10.1126/scitranslmed.aat8806
 tags:
 - Source Themes
-title: stm
+title: A database of tissue-specific rhythmically expressed human genes has potential applications in circadian medicine
 url_code: https://science.org/doi/10.1126/scitranslmed.aat8806
 #url_dataset: ""
 url_pdf: https://science.org/doi/10.1126/scitranslmed.aat8806
