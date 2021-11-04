@@ -19,8 +19,8 @@ publication_types:
 publishDate: "2017-01-01T00:00:00Z"
 #slides: example
 summary: https://medrxiv.org/content/10.1101/2021.10.24.21265348v1
-tags:
-- Source Themes
+#tags:
+#- Source Themes
 title: Factors Associated with Medicine Timing Effects: A Meta-analysis
 url_code: https://github.com/MarcDRuben/MetaAnalysis
 #url_dataset: ""
