@@ -8,11 +8,11 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/mruben1975
 slides: example
 summary: An example of using the in-built project page.
 tags:
-- Electronic Health Records
+- Bioinformatic Clinical Informatic
 title: EHR
 url_code: ""
 url_pdf: ""
