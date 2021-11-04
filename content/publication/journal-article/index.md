@@ -5,7 +5,7 @@ author_notes:
 #authors:
 #- admin
 date: "201-09-01T00:00:00Z"
-doi: "https://doi.org/10.1101/2021.10.24.21265348"
+doi: "10.1126/scitranslmed.aat8806"
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
@@ -18,13 +18,13 @@ publication_types:
 - "2"
 publishDate: "2017-01-01T00:00:00Z"
 #slides: example
-summary: https://medrxiv.org/content/10.1101/2021.10.24.21265348v1
-#tags:
-#- Source Themes
-title: Factors Associated with Medicine Timing Effects: A Meta-analysis
-url_code: https://github.com/MarcDRuben/MetaAnalysis
+summary: https://science.org/doi/10.1126/scitranslmed.aat8806
+tags:
+- Source Themes
+title: A database of tissue-specific rhythmically expressed human genes has potential applications in circadian medicine
+url_code: https://science.org/doi/10.1126/scitranslmed.aat8806
 #url_dataset: ""
-url_pdf: https://medrxiv.org/content/10.1101/2021.10.24.21265348v1
+url_pdf: https://science.org/doi/10.1126/scitranslmed.aat8806
 #url_poster: ""
 #url_project: ""
 #url_slides: ""
