@@ -1,19 +1,12 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: coming
 author_notes:
-- Equal contribution
 - Equal contribution
 authors:
 - admin
 - Robert Ford
 date: "201-09-01T00:00:00Z"
-doi: ""
+doi: "10.1126/scitranslmed.aat8806"
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
@@ -25,20 +18,20 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2017-01-01T00:00:00Z"
-slides: example
+#slides: example
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
 title: stm
 url_code: https://science.org/doi/10.1126/scitranslmed.aat8806
-url_dataset: ""
+#url_dataset: ""
 url_pdf: https://science.org/doi/10.1126/scitranslmed.aat8806
-url_poster: ""
-url_project: ""
-url_slides: ""
-url_source: ""
-url_video: ""
+#url_poster: ""
+#url_project: ""
+#url_slides: ""
+url_source: "https://science.org/doi/10.1126/scitranslmed.aat8806"
+#url_video: ""
 ---
 
 {{% callout note %}}
